@@ -1,0 +1,6 @@
+.env
+.env-non-dev
+.idea
+
+test_main.http
+
