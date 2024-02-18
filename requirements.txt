@@ -84,7 +84,6 @@ tortoise-orm==0.19.2
 typing_extensions==4.4.0
 ujson==5.7.0
 uvicorn==0.20.0
-uvloop==0.17.0
 vine==5.0.0
 watchfiles==0.18.1
 wcwidth==0.2.6
