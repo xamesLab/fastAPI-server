@@ -5,8 +5,9 @@ services:
     container_name: db_app
     env_file:
       - .env-non-dev
-    ports:
-      - "5432:5432"
+    command: -p 1221
+    expose:
+      - 1221
 
 #   redis:
 #     image: redis:7
